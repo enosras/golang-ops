@@ -13,6 +13,9 @@ func main() {
 	fmt.Println("Wait for it: ")
 	//var length int = len(arr[])
 	//fmt.Println(len(arr))
+
+
+	
 	for i := 0; i < len(arr); i++ {
 		fmt.Println(arr[i])
 
